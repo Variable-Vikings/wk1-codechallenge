@@ -14,7 +14,7 @@ This is a project which contains; student grade generator, speed detector and ne
 ### Requirements
 * [HTML](html.com)
 * [css](inline)
-* [javascript]
+* [javascript](javascript)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 
 
