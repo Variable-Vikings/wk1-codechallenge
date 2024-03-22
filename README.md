@@ -1,6 +1,6 @@
 # wk1-codechallenge
 *****
-### Author : Amon Kiprotich March 16th 2024
+### Author : Amon Kiprotich March 22nd 2024
 ****
 ## Project Description
 This is a project which contains; student grade generator, speed detector and net salary calculator.
