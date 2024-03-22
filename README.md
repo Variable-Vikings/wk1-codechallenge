@@ -35,11 +35,10 @@ This is a project which contains; student grade generator, speed detector and ne
 > Run using live server
 *****
 ## Live Link
-Or you can access the web application directly via this [https://amonportfolio1.netlify.app/](https://amonportfolio1.netlify.app/)
+Or you can access the web application directly via this [https://amoncodechallengewk1.netlify.app/](https://amoncodechallengewk1.netlify.app/)
 *****
 ## Dependencies
 - Google fonts
-- Font awesome Icons
 - Particles JS
 *****
 ## Technologies Used
