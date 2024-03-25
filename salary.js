@@ -35,6 +35,12 @@ const basicSalary = parseFloat(basicSalaryInput.value);
 const benefits = parseFloat(benefitsInput.value);
 // Calculate net salary
 const salaryDetails = calculateNetSalary(basicSalary, benefits);
- // Display results
-const resultContainer = document.getElementById("Net"); resultContainer.innerHTML = ` <p>Gross Salary: ${salaryDetails.grossSalary}</p> <p>Payee (Tax): ${salaryDetails.payee}</p> <p>NHIF Deductions: ${salaryDetails.nhifDeductions}</p> <p>NSSF Deductions: ${salaryDetails.nssfDeductions}</p> <p>Net Salary: ${salaryDetails.netSalary}</p> `;
+ // Displaying results
+const resultContainer = document.getElementById("Net");
+resultContainer.innerHTML = `
+<p>Gross Salary: ${salaryDetails.grossSalary}</p>
+ <p>Payee (Tax): ${salaryDetails.payee}</p>
+ <p>NHIF Deductions: ${salaryDetails.nhifDeductions}</p>
+ <p>NSSF Deductions: ${salaryDetails.nssfDeductions}</p>
+ <p>Net Salary: ${salaryDetails.netSalary}</p> `;
 }
